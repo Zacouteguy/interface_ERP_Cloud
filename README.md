@@ -16,7 +16,7 @@ Usei como como background de entrada do sistema Web a imagem do hall de entrada 
 ## MENU DE ACESSO AS EQUIPES
 
 <h1 align="center">
-    <https://user-images.githubusercontent.com/45882588/111857821-ecc9d900-8912-11eb-949b-8eb17ebaf3e9.png" />
+    <https://user-images.githubusercontent.com/45882588/111857909-8f825780-8913-11eb-96c3-43ec1fdeac3d.png" />
 </h1>
 
 
